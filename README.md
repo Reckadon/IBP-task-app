@@ -5,7 +5,7 @@ Clone the codebase onto your machine, then run:
 
 ### `npm install`
 
-To install the necessary packages.
+To install the necessary packages like Firebase.
 
 Then In the project directory, you can run:
 
@@ -14,8 +14,17 @@ Then In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## The App
+
+There are 2 tabs in the sidebar:
+
+The `View` Tab shows the data from the database in the form of a table.
+
+The `Form` Tab has a form which can be used to add events data to the database.
+
+## The Database
+
+Uses [Firebase Realtime Database](https://firebase.google.com/products/realtime-database). This stores data in the form of JSON Objects.
 
 ## Learn More
 

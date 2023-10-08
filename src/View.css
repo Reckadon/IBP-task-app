@@ -1,0 +1,7 @@
+table {
+  min-width: 600px;
+}
+td {
+  text-align: center;
+  text-transform: capitalize;
+}

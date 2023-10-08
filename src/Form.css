@@ -1,0 +1,15 @@
+form > button {
+  width: 100%;
+  padding: 5px;
+}
+.formRow {
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.formRow label {
+  margin-right: 5px;
+}
+.formRow input {
+  text-transform: capitalize;
+}
