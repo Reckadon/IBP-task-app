@@ -1,7 +1,7 @@
 import React from "react";
 import "./View.css";
 
-const View = ({ eventsData }) => {
+const View = ({ eventsData, handleDelete }) => {
   return (
     <div>
       {eventsData ? (
@@ -11,6 +11,7 @@ const View = ({ eventsData }) => {
               <th>Name</th>
               <th>Time</th>
               <th>Number of Teams</th>
+              <th></th>
             </tr>
           </thead>
           <tbody>
@@ -19,6 +20,9 @@ const View = ({ eventsData }) => {
                 <td>{event.name}</td>
                 <td>{event.time}</td>
                 <td>{event.numberOfTeam}</td>
+                <td className="delete" onClick={() => handleDelete(index)}>
+                  delete
+                </td>
               </tr>
             ))}
           </tbody>

@@ -5,3 +5,9 @@ td {
   text-align: center;
   text-transform: capitalize;
 }
+td.delete {
+  color: blue;
+}
+td.delete:hover {
+  color: rgb(0, 0, 189);
+}
