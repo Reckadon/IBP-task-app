@@ -6,7 +6,7 @@
 
 There are 2 tabs in the sidebar:
 
-The `View` Tab shows the data from the database in the form of a table.
+The `View` Tab shows the data from the database in the form of a table and provides a button to delete the event.
 
 The `Form` Tab has a form which can be used to add events data to the database.
 
