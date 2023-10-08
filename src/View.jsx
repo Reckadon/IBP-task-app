@@ -3,7 +3,7 @@ import "./View.css";
 
 const View = ({ eventsData, handleDelete }) => {
   return (
-    <div>
+    <div className="tableContainer">
       {eventsData ? (
         <table>
           <thead>

@@ -11,3 +11,9 @@ td.delete {
 td.delete:hover {
   color: rgb(0, 0, 189);
 }
+
+@media only screen and (max-width: 750px) {
+  .tableContainer {
+    overflow-x: scroll;
+  }
+}
