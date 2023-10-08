@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ibp-task-app/static/css/main.6ff08a23.css",
-    "main.js": "/ibp-task-app/static/js/main.b5a14c6c.js",
-    "index.html": "/ibp-task-app/index.html",
-    "main.6ff08a23.css.map": "/ibp-task-app/static/css/main.6ff08a23.css.map",
-    "main.b5a14c6c.js.map": "/ibp-task-app/static/js/main.b5a14c6c.js.map"
+    "main.css": "/IBP-task-app/static/css/main.6ff08a23.css",
+    "main.js": "/IBP-task-app/static/js/main.0d541b14.js",
+    "index.html": "/IBP-task-app/index.html",
+    "main.6ff08a23.css.map": "/IBP-task-app/static/css/main.6ff08a23.css.map",
+    "main.0d541b14.js.map": "/IBP-task-app/static/js/main.0d541b14.js.map"
   },
   "entrypoints": [
     "static/css/main.6ff08a23.css",
-    "static/js/main.b5a14c6c.js"
+    "static/js/main.0d541b14.js"
   ]
 }
