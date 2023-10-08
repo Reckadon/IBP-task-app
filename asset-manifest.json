@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ibp-task-app/static/css/main.6ff08a23.css",
+    "main.js": "/ibp-task-app/static/js/main.b5a14c6c.js",
+    "index.html": "/ibp-task-app/index.html",
+    "main.6ff08a23.css.map": "/ibp-task-app/static/css/main.6ff08a23.css.map",
+    "main.b5a14c6c.js.map": "/ibp-task-app/static/js/main.b5a14c6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ff08a23.css",
+    "static/js/main.b5a14c6c.js"
+  ]
+}
